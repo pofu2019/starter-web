@@ -2,6 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
+#add line 3
+additional line 3
+
 ## add line 1
 additional line
 
