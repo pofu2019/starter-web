@@ -8,6 +8,9 @@ additional line 3
 ## add line 1
 additional line
 
+### COPYRIGHT
+COPYRIGHT
+
 ## add line 4
 additinal line 4
 
