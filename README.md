@@ -26,3 +26,7 @@ additional line 5
 
 ####ADD LINE 6
 ADDITIONAL LINE 6
+
+
+## How To Contribute
+Please fork this repository and then issue Pull Requests for review.
